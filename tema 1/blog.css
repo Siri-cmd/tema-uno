@@ -1,0 +1,40 @@
+.menu {
+    list-style-type:none; 
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    top: 0;
+    border-bottom: 1px solid black;
+    overflow: hidden;
+    line-height: 0em;
+    color: #605050;
+}
+.menutitle {
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.menuitem {
+    float: right;
+}
+.menuitem a {
+    display: block;
+    padding: 14px 16px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    color: #605050;
+  
+  }
+.Presentation {
+    margin-left: 12cm;
+    margin-right: 12cm;
+    line-height: 1.6;
+
+}
+.heading4 {
+    color: grey;
+    font-style: italic;
+}
